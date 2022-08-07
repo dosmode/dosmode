@@ -23,7 +23,7 @@
 </table>
 
 ------------
-!</br>Last refresh: Tuesday, 5 April, 11:07 CEST<br /><a 
+</br>Last refresh: Tuesday, 5 April, 11:07 CEST<br />
 
 
 <!--
